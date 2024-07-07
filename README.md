@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juan Pablo Cabrera - Proyecto Educativo</title>
+    <title>Juan Pablo Cabrera - Educación para el futuro</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -54,7 +54,7 @@
             color: #333;
             text-align: center;
             padding-top: 100px;
-            background-image: url('background-image.jpg');
+            background-image: url('https://cdn.pixabay.com/photo/2021/04/28/09/44/book-6213537_1280.jpg');
             background-size: cover;
             background-position: center;
         }
@@ -73,8 +73,8 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         .content img {
-            max-width: 100%;
-            height: auto;
+            max-width: 610px;
+            height: 250px;
             border-radius: 5px;
         }
         .content h2 {
@@ -84,7 +84,7 @@
             margin: 20px 0;
         }
         .content ul li, .content ol li {
-            margin-bottom: 10px;
+            margin-bottom: 15px;
         }
         footer {
             background: #7ea3a1;
@@ -165,7 +165,7 @@
 
     <section id="showcase">
         <div class="container">
-            <h1>Proyecto Educativo</h1>
+            <h1>Educación para el futuro</h1>
             <p>Falta de educación debido a la pobreza</p>
         </div>
     </section>
@@ -173,7 +173,7 @@
     <div class="container">
         <section id="proyecto" class="content">
             <h2>Falta de Educación Debido a la Pobreza</h2>
-            <img src="imagen_proyecto_principal.jpg" alt="Imagen del proyecto principal">
+            <img src="https://cdn.pixabay.com/photo/2016/10/27/14/23/old-man-1775239_1280.jpg">
             <p>La falta de educación debido a la pobreza es un problema persistente que afecta a millones de personas en todo el mundo. Este proyecto se centra en identificar las principales barreras que enfrentan las comunidades pobres para acceder a una educación de calidad, y en desarrollar estrategias efectivas para superarlas.</p>
             <h3>Descripción del Problema</h3>
             <p>La pobreza es una de las principales barreras para acceder a la educación. Las familias de bajos ingresos a menudo no pueden costear los costos asociados con la educación, como uniformes, libros y materiales escolares. Además, los niños de estas familias suelen tener que trabajar para ayudar a sus familias en lugar de asistir a la escuela. La falta de infraestructura educativa adecuada y de maestros capacitados en comunidades pobres también contribuye a la baja calidad de la educación que reciben los niños.</p>
@@ -200,11 +200,11 @@
 
         <section id="proyectos" class="content">
             <h2>Proyectos Similares</h2>
-            <img src="imagen_proyecto_similar1.jpg" alt="Imagen del proyecto similar 1">
+            <img src="https://cdn.pixabay.com/photo/2017/09/16/01/41/poor-2754335_1280.jpg">
             <h3>Proyecto de Alfabetización Rural</h3>
             <p>Este proyecto se enfoca en llevar programas de alfabetización a comunidades rurales donde el acceso a la educación es limitado. A través de la formación de profesores locales y el uso de materiales educativos contextualizados, se busca mejorar las tasas de alfabetización en estas áreas.</p>
             <p>La alfabetización es una habilidad fundamental que permite a los individuos acceder a información, comunicarse efectivamente y participar plenamente en la sociedad. En muchas comunidades rurales, la falta de alfabetización es una barrera significativa para el desarrollo social y económico. Este proyecto se centra en proporcionar oportunidades de aprendizaje a personas de todas las edades, con un enfoque especial en mujeres y niñas, que a menudo tienen menos acceso a la educación.</p>
-            <img src="imagen_proyecto_similar2.jpg" alt="Imagen del proyecto similar 2">
+            <img src="https://cdn.pixabay.com/photo/2015/06/24/15/45/hands-820272_1280.jpg">
             <h3>Iniciativa de Educación Digital</h3>
             <p>La iniciativa de educación digital tiene como objetivo proporcionar acceso a recursos educativos digitales en comunidades desfavorecidas. Mediante la distribución de dispositivos electrónicos y la capacitación en el uso de tecnologías, se espera cerrar la brecha digital y mejorar las oportunidades educativas.</p>
             <p>El acceso a la tecnología es crucial en el mundo moderno, donde las habilidades digitales son cada vez más importantes para el éxito académico y profesional. Esta iniciativa no solo proporciona hardware y software, sino que también ofrece programas de formación para estudiantes y maestros. La educación digital abre nuevas oportunidades de aprendizaje, permite el acceso a una vasta cantidad de información y recursos, y fomenta la creatividad y la innovación entre los estudiantes.</p>
